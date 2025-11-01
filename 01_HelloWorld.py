@@ -1,4 +1,5 @@
 """
+  Author : Balaji Nagaiahgari
   install pyjokes external module before executing this program using the command "pip install pyjokes"
 """
 import pyjokes
